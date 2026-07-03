@@ -21,7 +21,7 @@ Adaptive Prediction Sets), we study two stages of the conformal prediction pipel
 
 ## Submitted file
 
-The submission consists of a single notebook, `team_41_code_submission.ipynb`, which is a
+The submission consists of a single notebook, `code.ipynb`, which is a
 `.ipynb` file intended to be run on **Google Colab (free version)**.
 
 Running it reproduces all of our results:
