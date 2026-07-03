@@ -60,7 +60,7 @@ need to be opened or placed manually:
 
 ## How to reproduce
 
-1. Upload `team_41_code_submission.ipynb` to **Google Colab** (free version).
+1. Upload `code.ipynb` to **Google Colab** (free version).
 2. Enable the GPU runtime: **Runtime → Change runtime type → GPU**.
 3. Run all cells from top to bottom: **Runtime → Run all**.
    - The first cell installs the non-default package with
